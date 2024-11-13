@@ -47,8 +47,11 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+![Screenshot (156)](https://github.com/user-attachments/assets/bf4f57f2-ea84-48da-a388-b01b016f78a4)
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+
+![Screenshot (161)](https://github.com/user-attachments/assets/09f57b94-1bea-4547-b681-9535b84bb959)
+
 
 
  
@@ -66,7 +69,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+ ![Screenshot (153)](https://github.com/user-attachments/assets/7e1a93e4-2f93-4223-9bd6-7b0b4539ed9a)
+
 
 
 
@@ -79,12 +83,13 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![Screenshot (159)](https://github.com/user-attachments/assets/93abd1c3-f999-4d77-9ed1-da846ccd370f)
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
 
- 
-Analog simulation by SPECTRE.
+
+
+ Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -94,12 +99,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![Screenshot (158)](https://github.com/user-attachments/assets/abf15263-b592-4920-bf3c-34e62466a485)
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![Screenshot (160)](https://github.com/user-attachments/assets/80865059-cefb-4657-a5b2-4ea0b5469bd3)
+
 
 
  
