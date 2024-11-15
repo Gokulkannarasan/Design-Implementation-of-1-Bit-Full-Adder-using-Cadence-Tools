@@ -1,21 +1,25 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+# Exp No:5 Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+ 
 
-Aim:
+## Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
 
-Tools Required:
+## Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+## Circuit Diagram
+![IMG-20241115-WA0008](https://github.com/user-attachments/assets/45447cb4-fc9b-4450-bfb6-4bd259884f05)
+
+
+## S C H E M A T I C S I M U L A T I O N 
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
 •	virtuoso 
-Procedure for Schematic simulation using Cadence
+## Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
 2.	Close the 2nd window
@@ -89,7 +93,7 @@ iv)	Creating the new test cell view
 
 
 
- Analog simulation by SPECTRE.
+ ## Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -102,7 +106,7 @@ iv)	Creating the new test cell view
 ![Screenshot (158)](https://github.com/user-attachments/assets/abf15263-b592-4920-bf3c-34e62466a485)
 
 
-For Transient Analysis Settings and Output
+## For Transient Analysis Settings and Output
  
 ![Screenshot (160)](https://github.com/user-attachments/assets/80865059-cefb-4657-a5b2-4ea0b5469bd3)
 
@@ -110,5 +114,5 @@ For Transient Analysis Settings and Output
 
  
 
-Results:
+## Results:
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
